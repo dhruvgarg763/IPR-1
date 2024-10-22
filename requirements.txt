@@ -1,0 +1,11 @@
+accelerate
+argparse
+joblib
+numpy
+pytorch_lightning
+scikit-learn
+soundfile
+torch
+torchaudio
+tqdm
+transformers
